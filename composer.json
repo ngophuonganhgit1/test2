@@ -1,0 +1,17 @@
+{
+    "name": "admin/qlhs",
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Admin\\Qlhs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dat2107",
+            "email": "nguyenthanhdat210l72004@gmail.com"
+        }
+    ]
+}
